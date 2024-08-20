@@ -12,6 +12,7 @@ body{
 }
 .navbar-nav a:hover{
     color: rgb(221, 221, 221);
+    font-size: 1.1rem; 
 }
 .srch{
     background-color: rgb(255, 255, 255);
