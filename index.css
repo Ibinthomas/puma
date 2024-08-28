@@ -49,9 +49,8 @@ body{
 }
 .img3foot{
     position: absolute;
-    top:25px;
-    left: 140px;
-    color: rgb(255, 255, 254);
+    top:36px;
+    left: 50px;
 }
 .img3foot.btn{
     border-radius: 25px;
