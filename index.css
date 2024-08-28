@@ -30,7 +30,7 @@ body{
 }
 .img1foot{
     position: absolute;
-    top:294px;
+    top:391px;
     left: 39px;
 }
 .main3,.main{
@@ -42,8 +42,10 @@ body{
  
 }
 .btn{
+    position: relative;
     border-radius: 25px;
     border-color: rgb(255, 255, 255);
+    
 }
 .img3foot{
     position: absolute;
@@ -53,8 +55,10 @@ body{
 }
 .img3foot.btn{
     border-radius: 25px;
+    position: absolute;
 
 }
+
 .img1{
     position: relative;
 }
